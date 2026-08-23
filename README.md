@@ -20,11 +20,22 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,firebase,gcp,docker,flutter,postman,git,sqlite,selenium&theme=dark" alt="Skill Icons" />
-  </a>
+#### 🌐 Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,flutter&theme=dark" alt="Frontend" />
 </p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,dart,fastapi,nestjs,postgres,supabase,firebase,sqlite&theme=dark" alt="Backend and DBs" />
+</p>
+
+#### ☁️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,postman,selenium&theme=dark" alt="DevOps and Tools" />
+</p>
+
+
 
 ---
 
