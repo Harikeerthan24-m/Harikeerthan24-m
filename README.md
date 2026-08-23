@@ -1,34 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=250&section=header&text=Harikeerthan&fontSize=70&animation=twinkling&fontColor=ffffff" alt="Harikeerthan profile header" />
-</p>
-
-<h3 align="center">
-    <samp>
-        &gt; Hey there, I'm
-        <b><a target="_blank" href="https://www.linkedin.com/in/harikeerthans/">Harikeerthan</a></b>
-    </samp>
-</h3>
-
-<br>
-
-<p align="center">
-<samp>
-「 Backend Engineer building scalable APIs, GenAI-integrated systems, and production-grade platforms 」
-</samp>
+  <img src="./assets/stars_banner.svg" width="100%" alt="Harikeerthan profile header" />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=1FBF8F&center=true&vCenter=true&width=800&lines=Backend+Engineer;Python+%2B+FastAPI+%2B+PostgreSQL;LLM+%2F+RAG+%2F+GenAI+Integration;Building+Systems+That+Scale"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=8FD9C4&center=true&vCenter=true&width=800&lines=Python+%2B+FastAPI+%2B+PostgreSQL;LLM+%2F+RAG+%2F+GenAI+Integration;Building+Systems+That+Scale&background=0A0A10"
     alt="Typing SVG"
   />
 </p>
 
-<!-- Optional: drop in a dev/terminal-themed GIF of your choice here -->
-<!-- <p align="center"><img src="YOUR-GIPHY-LINK-HERE" width="450" alt="animated visual"></p> -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=3&section=header" alt="divider" />
+  <img src="./assets/stars_divider.svg" width="100%" alt="divider" />
 </p>
 
 ---
@@ -51,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=3&section=header" alt="divider" />
+  <img src="./assets/stars_divider.svg" width="100%" alt="divider" />
 </p>
 
 ---
@@ -64,7 +46,7 @@
 - **Slidez** *(private)* — Automation pipeline for AI-driven content generation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=3&section=header" alt="divider" />
+  <img src="./assets/stars_divider.svg" width="100%" alt="divider" />
 </p>
 
 ---
@@ -72,20 +54,20 @@
 ### 📊 Vital Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikeerthan24-m&theme=gruvbox&hide_border=true&background=00000000&ring=1FBF8F&fire=1FBF8F&currStreakLabel=1FBF8F" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harikeerthan24-m&theme=gruvbox&hide_border=true&background=0A0A10&ring=8FD9C4&fire=8FD9C4&currStreakLabel=8FD9C4&stroke=0A0A10" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harikeerthan24-m&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=1FBF8F&icon_color=1FBF8F" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikeerthan24-m&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=1FBF8F" alt="Top languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harikeerthan24-m&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0A0A10&title_color=8FD9C4&icon_color=8FD9C4&text_color=f4efe1" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harikeerthan24-m&layout=compact&theme=gruvbox&hide_border=true&bg_color=0A0A10&title_color=8FD9C4&text_color=f4efe1" alt="Top languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harikeerthan24-m&label=PROFILE%20VIEWS&color=1FBF8F&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=harikeerthan24-m&label=PROFILE%20VIEWS&color=0A0A10&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=3&section=header" alt="divider" />
+  <img src="./assets/stars_divider.svg" width="100%" alt="divider" />
 </p>
 
 ---
@@ -111,17 +93,17 @@
 <br>
 
 <a href="mailto:harikeerthan.dev@gmail.com">
-  <img src="https://img.shields.io/badge/email-harikeerthan.dev@gmail.com-1FBF8F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/email-harikeerthan.dev@gmail.com-0A0A10?style=for-the-badge&logo=gmail&logoColor=8FD9C4" alt="Email">
 </a>
 <br><br>
 
 <a href="https://www.linkedin.com/in/harikeerthans/">
-  <img src="https://img.shields.io/badge/linkedin-harikeerthans-134E5E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/linkedin-harikeerthans-0A0A10?style=for-the-badge&logo=linkedin&logoColor=8FD9C4" alt="LinkedIn">
 </a>
 <br><br>
 
 <a href="https://www.leetcode.com/vfznzthcqa">
-  <img src="https://img.shields.io/badge/leetcode-vfznzthcqa-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  <img src="https://img.shields.io/badge/leetcode-vfznzthcqa-0A0A10?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
 </a>
 
 </td>
@@ -130,12 +112,8 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,100:71B280&height=3&section=header" alt="divider" />
+  <img src="./assets/stars_divider.svg" width="100%" alt="divider" />
 </p>
 
 <p align="center">⚡ Building backend systems, one scalable API at a time</p>
 <p align="center">Star ⭐ the repos if they helped you!</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=100&section=footer" alt="footer wave"/>
-</p>
