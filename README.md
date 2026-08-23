@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Python+%2B+FastAPI+%2B+PostgreSQL;LLM+%2F+RAG+%2F+GenAI+Integration;Building+Systems+That+Scale;I+Turn+Coffee+Into+Code+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Backend+Systems;Engineering+AI-Driven+Workflows;Building+Resilient+Microservices;I+Turn+Coffee+Into+Code+☕" alt="Typing SVG" />
   </a>
 </p>
 
@@ -80,6 +80,12 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/vfznzthcqa">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Harikeerthan824">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X (Twitter)" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/harikeerthan.8">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40" />
   </a>
 </p>
 
