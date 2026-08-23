@@ -1,4 +1,4 @@
-<h1 align="center">
+﻿<h1 align="center">
   <img src="./assets/pixel_header.jpg" alt="Harikeerthan retro pixel art header" width="100%" />
 </h1>
 
@@ -15,6 +15,10 @@
 - 🌱 I’m currently exploring **Advanced RAG, Microservices, and Event-Driven Architecture**.
 - 💬 Ask me about **Python, FastAPI, System Design, or LLMs**.
 - ⚡ Fun fact: I can debug faster when listening to synthwave.
+
+<br/>
+
+[harikeerthan.dev ↗](https://portfolio-website-theta-brown-27.vercel.app/)
 
 <br/>
 
