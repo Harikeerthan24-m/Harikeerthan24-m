@@ -72,21 +72,7 @@
 <br>
 
 <p align="center">
-  <a href="mailto:harikeerthan.dev@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harikeerthans/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/vfznzthcqa">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Harikeerthan824">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X (Twitter)" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/harikeerthan.8">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40" />
-  </a>
+  <a href="mailto:harikeerthan.dev@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/harikeerthans/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.leetcode.com/vfznzthcqa"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/Harikeerthan824"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X (Twitter)" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/harikeerthan.8"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="40" /></a>
 </p>
 
 </td>
