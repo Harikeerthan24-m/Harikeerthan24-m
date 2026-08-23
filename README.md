@@ -8,9 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/stars_divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
-</p>
+---
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on scalable backend architectures and AI-driven content generation pipelines.
@@ -28,9 +26,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/stars_divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
-</p>
+---
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -54,9 +50,7 @@
   <img src="https://komarev.com/ghpvc/?username=harikeerthan24-m&label=PROFILE%20VIEWS&color=0A0A10&style=flat-square" alt="Views" />
 </p>
 
-<p align="center">
-  <img src="./assets/stars_divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
-</p>
+---
 
 ### 📌 Featured Work
 
@@ -65,9 +59,7 @@
 - 📊 **Tenant Analysis** *(private)* — Analytics engine surfacing usage insights across tenants.
 - 🤖 **Slidez** *(private)* — Automation pipeline for AI-driven content generation.
 
-<p align="center">
-  <img src="./assets/stars_divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
-</p>
+---
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -100,7 +92,7 @@
 <br><br>
 
 <a href="https://www.leetcode.com/vfznzthcqa">
-  <img src="https://img.shields.io/badge/LeetCode-vfznzthcqa-0A0A10?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
+  <img src="https://img.shields.io/badge/LeetCode-Harikeerthan-0A0A10?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
 </a>
 
 </td>
@@ -108,9 +100,7 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="./assets/stars_divider.svg" width="100%" alt="divider" onerror="this.style.display='none'"/>
-</p>
+---
 
 <p align="center"><b>⚡ Building backend systems, one scalable API at a time</b></p>
 <p align="center"><i>If any of my repositories helped you, drop a star! ⭐</i></p>
